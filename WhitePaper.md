@@ -10,12 +10,15 @@ Borrowing Cryptocurrencies to gain quick access to additional liquid when you do
  - Gain a steady interest by lending out tokens**
 
 It also supports external assets.
+
 ** If borrower doesnt defaults
 
 # How it works
 
  Requesters create Borrow Requests . They send Tokens to the smart contracts and Lock them.
+ 
  ![](https://i.imgur.com/WJhlzME.png)
+ 
  After successfully locking tokens the requests are shown in market.
  
  Lenders Can Accept any request then send tokens to the smart contracts and lock them.
@@ -24,9 +27,11 @@ Once funds are locked the timer is started and borrower has to withdraw and retu
 On successfully returning lended tokens with interest all tokens are automatically returned to borrowers and lenders.
 
 Images showing a Loan being Completed and Defaulted 
+
 ![](https://i.imgur.com/4kk1cxr.png)
 
 Borrower Defaulted
+
 ![](https://i.imgur.com/kkAXqIp.png)
 
 # Reputations
@@ -47,6 +52,7 @@ Governors needs to stake NanoLend coins to govern. A malicious governor will los
 
 
 *SIMPLE EXPLAINATION*
+
 *This scenario only for external assets. ethereum tokens will require no governance as they are inside the ecosystem*
 Person **A** sends Asset **A** to SafeBox **A** and clone of **A** to smart contract.
 
